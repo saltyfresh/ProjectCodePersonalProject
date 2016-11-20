@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*Color Scheme From Coolors - https://coolors.co/9d805a-d4d4d4-f5dad3-15293a-29292a */
+
+/* dark blue background color */
+ul.topnav {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #15293A;
+}
+
+/* Float the list items side by side */
+ul.topnav li {float: left;}
+
+/* Style the links inside the list items */
+ul.topnav li a {
+    display: inline-block;
+    color: whitesmoke;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of links on hover */
+ul.topnav li a:hover {background-color: #D4D4D4;}
+
+
+/*END OF NAV BAR*/
+/*END OF NAV BAR*/
+
+.header {
+    background-image: url(solarroofhome.jpg);
+    line-height: 850px;
+    padding: 1px;
+}
+
+.headerH1 {
+    
+    font-family: georgia;
+    color: whitesmoke;
+    font-size: 75px;
+    margin-top: -150px;
+    margin-left: 20px;
+}
+
+/* First Section */
+
+.section1 {
+    background-color: #D4D4D4;
+    font-family: sans-serif;
+    line-height: 40px;
+    text-align: center;
+    color: #15293A;
+}
+
+.section11 {
+    text-align: left;
+    font-family: sans-serif;
+    line-height: 40px;
+    padding: 20px;
+    color: #15293A;
+    
+}
+
+.section1img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 20px; 
+    color: #15293A;
+}
+
+
+
+
+/* Second Section */
+
+.section2 {
+    background-color: #F5DAD3;
+    line-height: 40px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #29292A;
+    
+}
+
+.section22 {
+    font-family: sans-serif;
+    line-height: 40px;
+    text-align: left;
+    padding: 20px;
+    color: #29292A;
+}
+
+.section2img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 10px; 
+    color: #29292A;
+}
+
+
+
+
+
+/* Third Section */
+.section3 {
+    background-color: #D4D4D4;
+    line-height: 40px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #15293A;
+}
+
+.section33 {
+    line-height: 40px;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+    color: #15293A;
+}
+
+.section3img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 10px; 
+    color: #15293A;
+}
+
+
+
